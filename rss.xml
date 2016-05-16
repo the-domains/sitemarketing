@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Your Daily Website Marketing Routine]]></title>
         <description><![CDATA[Your Daily Website Marketing Routine]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sitemarketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 12:43:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 12:44:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sitemarketing/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de3c5820-0014-4bd1-b785-98e8db8e0677.jpg">]]></description>
-            <link>undefined512ee5c4-184a-48d3-9f59-e7f4ddc06878/index.html</link>
+            <link>https://thegrid.ai/sitemarketing/512ee5c4-184a-48d3-9f59-e7f4ddc06878/index.html</link>
             <guid isPermaLink="false">512ee5c4-184a-48d3-9f59-e7f4ddc06878</guid>
-            <pubDate>Mon, 16 May 2016 12:42:17 GMT</pubDate>
+            <pubDate>Mon, 16 May 2016 12:44:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
